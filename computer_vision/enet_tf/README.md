@@ -2,7 +2,7 @@
 
 ### Info
  - Dataset : CamVid Sample [link](https://drive.google.com/uc?id=1gt0nCGft0winZqHBYaTb1EL6zM8lrKPA)
- - Classes : 11
+ - Classes : 12
  - Trained Epochs : 50
  - Weights : [link](https://drive.google.com/drive/folders/1JuJwsZt9FlsWsky_3hcgmZDq8NFgLdt4?usp=sharing)
 
