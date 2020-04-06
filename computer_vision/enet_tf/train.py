@@ -128,3 +128,7 @@ def train_enet():
     plt.ylim([0, 1])
     plt.legend()
     plt.show()
+
+
+if __name__ == '__main__':
+    train_enet()
