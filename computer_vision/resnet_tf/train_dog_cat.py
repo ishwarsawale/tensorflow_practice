@@ -29,7 +29,8 @@ def get_model():
     if args.model == "resnet152":
         model = resnet_152(args.num_classes)
     model.build(input_shape=(None, args.image_size, args.image_size, args.channels))
-    model.summary() return model
+    model.summary()
+    return model
 
 
 def train():
